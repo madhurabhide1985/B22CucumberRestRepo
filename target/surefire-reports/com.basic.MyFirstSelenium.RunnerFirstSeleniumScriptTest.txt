@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.basic.MyFirstSelenium.RunnerFirstSeleniumScriptTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 4, Skipped: 12, Time elapsed: 130.304 sec <<< FAILURE!
+When user click on "Project" tab(Scenario: test all tabs on home page)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.basic.MyFirstSelenium.FirstSeleniumScriptSD.user_click_on_Project_tab(FirstSeleniumScriptSD.java:34)
+	at ?.When user click on "Project" tab(src/test/resources/com/basic/MyFirstSelenium/FirstSeleniumScriptFF.feature:5)
+
+Scenario: test all tabs on home page  Time elapsed: 0.004 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.basic.MyFirstSelenium.FirstSeleniumScriptSD.user_click_on_Project_tab(FirstSeleniumScriptSD.java:34)
+	at ?.When user click on "Project" tab(src/test/resources/com/basic/MyFirstSelenium/FirstSeleniumScriptFF.feature:5)
+
+When user click on "Documenation" tab(Scenario: test all tabs on home page22)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.basic.MyFirstSelenium.FirstSeleniumScriptSD.user_click_on_Project_tab(FirstSeleniumScriptSD.java:34)
+	at ?.When user click on "Documenation" tab(src/test/resources/com/basic/MyFirstSelenium/FirstSeleniumScriptFF.feature:10)
+
+Scenario: test all tabs on home page22  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.basic.MyFirstSelenium.FirstSeleniumScriptSD.user_click_on_Project_tab(FirstSeleniumScriptSD.java:34)
+	at ?.When user click on "Documenation" tab(src/test/resources/com/basic/MyFirstSelenium/FirstSeleniumScriptFF.feature:10)
+

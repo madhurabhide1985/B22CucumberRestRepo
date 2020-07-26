@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.basic.postUpdatedJsonSD.RunMyPostFromTextFileTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 1.149 sec
